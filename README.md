@@ -10,10 +10,9 @@ The Double DQN algorithm is an extension of the Deep Q-Network (DQN) algorithm, 
 
 ## Demo
 
-Here's a GIF showcasing the trained agent playing the Space Invaders game:
+Here's a Video showcasing the trained agent playing the Space Invaders game:
 
-[![Space Invaders Gameplay]()](spaceinvader.mp4)
-[![Watch the video](spaceinvaderdemo.jpg)](path/to/your/video.mp4)
+[![Watch the video](spaceinvaderdemo.png)](spaceinvader.mp4)
 
 
 ## Features
