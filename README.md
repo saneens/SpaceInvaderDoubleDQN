@@ -2,7 +2,7 @@
 
 # Double DQN for Space Invaders
 
-This repository contains an implementation of the Double Deep Q-Network (Double DQN) algorithm to train an agent to play the Atari game Space Invaders using TensorFlow and Keras. This was done as part of the Qualcomm 2020 AI Hackathon.
+This repository contains an implementation of the Double Deep Q-Network (Double DQN) algorithm to train an agent to play the Atari game Space Invaders using TensorFlow and Keras. This was done as part of the Qualcomm 2020 AI Hackathon. Won the best technical presentation for this [report](https://wandb.ai/saneens/space-invaders-dueling-network/reports/Double-DQN-for-Space-Invaders---Vmlldzo4OTM1OA).
 
 ## Overview
 
